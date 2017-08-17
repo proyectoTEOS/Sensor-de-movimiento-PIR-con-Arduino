@@ -1,3 +1,14 @@
+/*
+Created by TEOS
+YouTube https://goo.gl/k7TUSZ
+Instagram https://goo.gl/zEIjia
+Facebook https://goo.gl/eivraR
+Twitter https://goo.gl/du5Wgn
+Github https://goo.gl/Xl5IiS
+Google Plus https://goo.gl/gBnUdh
+WEB http://bit.ly/1UvumG9
+*/
+
 const int sensorPinT = 2;
 
 long unsigned int lowInT;
