@@ -1,8 +1,6 @@
 /*
   Created by TEOS
-
   Domotic with Arduino https://goo.gl/btZpjs
-
   YouTube https://goo.gl/k7TUSZ
   Instagram https://goo.gl/zEIjia
   Facebook https://goo.gl/eivraR
@@ -23,7 +21,7 @@ void setup() {
   Serial.begin(9600);
   pinMode(sensorPinT, INPUT);
   Serial.print("Iniciando calibracion ");
-  for (int i = 0; i < 10; i++) {
+  for (int iT = 0; iT < 10; iT++) {
     Serial.print("x");
     delay(1000);
   }
